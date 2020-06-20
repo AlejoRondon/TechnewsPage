@@ -108,3 +108,8 @@ hr {
 .btn:hover {
   opacity: 0.7;
 }
+
+.showcase h2,
+.showcase p {
+  margin-bottom: 10px;
+}
