@@ -194,3 +194,27 @@ hr {
 .cards-banner-two h2 {
   margin: 10px 0 20px 0;
 }
+
+/** SOCIAL */
+
+.social {
+  margin: 50px;
+}
+
+.social p {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-links a {
+  font-size: 3rem;
+  margin: 0 10px;
+}
+
